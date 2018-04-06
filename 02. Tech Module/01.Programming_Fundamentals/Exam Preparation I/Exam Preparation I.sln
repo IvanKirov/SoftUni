@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Sino The Walker", "01. Sino The Walker\01. Sino The Walker.csproj", "{E33927BA-C9A5-477A-9DE4-865BBE50290B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Sino The Walker, part 2", "01. Sino The Walker, part 2\01. Sino The Walker, part 2.csproj", "{E91B16B0-2E5D-4BA0-92ED-AC08360A16E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. SoftUni Karaoke", "02. SoftUni Karaoke\02. SoftUni Karaoke.csproj", "{A4940553-5B17-4A1E-8CD6-2ACB9D65477D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Rage Quit", "03. Rage Quit\03. Rage Quit.csproj", "{F58D3DB3-1D14-4444-BD3E-57944091A4CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Winning Ticket", "04. Winning Ticket\04. Winning Ticket.csproj", "{BFE2A4C8-5417-4B19-A5FB-C69A7C74399C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Sino The Walker, part 3", "01. Sino The Walker, part 3\01. Sino The Walker, part 3.csproj", "{2556086D-4F45-467C-96D6-207ABE629AE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Winning Ticket, part 2", "04. Winning Ticket, part 2\04. Winning Ticket, part 2.csproj", "{E8ACA0D9-CE92-4C97-AE37-8DDF69908E70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E33927BA-C9A5-477A-9DE4-865BBE50290B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E33927BA-C9A5-477A-9DE4-865BBE50290B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E33927BA-C9A5-477A-9DE4-865BBE50290B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E33927BA-C9A5-477A-9DE4-865BBE50290B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E91B16B0-2E5D-4BA0-92ED-AC08360A16E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E91B16B0-2E5D-4BA0-92ED-AC08360A16E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E91B16B0-2E5D-4BA0-92ED-AC08360A16E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E91B16B0-2E5D-4BA0-92ED-AC08360A16E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4940553-5B17-4A1E-8CD6-2ACB9D65477D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4940553-5B17-4A1E-8CD6-2ACB9D65477D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4940553-5B17-4A1E-8CD6-2ACB9D65477D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4940553-5B17-4A1E-8CD6-2ACB9D65477D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F58D3DB3-1D14-4444-BD3E-57944091A4CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F58D3DB3-1D14-4444-BD3E-57944091A4CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F58D3DB3-1D14-4444-BD3E-57944091A4CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F58D3DB3-1D14-4444-BD3E-57944091A4CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFE2A4C8-5417-4B19-A5FB-C69A7C74399C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFE2A4C8-5417-4B19-A5FB-C69A7C74399C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFE2A4C8-5417-4B19-A5FB-C69A7C74399C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFE2A4C8-5417-4B19-A5FB-C69A7C74399C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2556086D-4F45-467C-96D6-207ABE629AE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2556086D-4F45-467C-96D6-207ABE629AE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2556086D-4F45-467C-96D6-207ABE629AE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2556086D-4F45-467C-96D6-207ABE629AE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8ACA0D9-CE92-4C97-AE37-8DDF69908E70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8ACA0D9-CE92-4C97-AE37-8DDF69908E70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8ACA0D9-CE92-4C97-AE37-8DDF69908E70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8ACA0D9-CE92-4C97-AE37-8DDF69908E70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
