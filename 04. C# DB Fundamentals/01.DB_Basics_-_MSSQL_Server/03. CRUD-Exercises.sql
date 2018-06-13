@@ -1,5 +1,7 @@
--- Exercises: CRUD
+-- Exercises: Basic CRUD
 --01. Examine the Databases
+
+-- Queries for SoftUni Database
 USE SoftUni
 GO
 
@@ -113,9 +115,10 @@ UPDATE Employees
 
 SELECT Salary FROM Employees
 
+-- Queries for Geography Databse
+USE Geography
 
 -- 22. All Mountain Peaks
-USE Geography
 SELECT PeakName FROM Peaks ORDER BY PeakName
 
 -- 23. Biggest Countries by Population
@@ -135,8 +138,11 @@ SELECT TOP(30) [CountryName],
     FROM Countries
 ORDER BY CountryName
 
--- 25. All Diablo Characters
+
+-- Queries for Diablo Databse
 USE Diablo
+
+-- 25. All Diablo Characters
   SELECT [Name] 
     FROM Characters
 ORDER BY Name
