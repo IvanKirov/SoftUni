@@ -1,0 +1,1 @@
+-- Exercises: Joins, Subqueries, CTE and Indices
